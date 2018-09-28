@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_team" type="id" />
+    <item name="away_team" type="id" />
+    <item name="btn_prev" type="id"/>
+    <item name="btn_next" type="id"/>
+    <item name="vs" type="id" />
+    <item name="home_score" type="id" />
+    <item name="away_score" type="id" />
+    <item name="date_event" type="id" />
+    <item name="home_badge" type="id" />
+    <item name="away_badge" type="id" />
+    <item name="score_layout" type="id" />
+    <item name="shots" type="id" />
+    <item name="home_shots" type="id" />
+    <item name="away_shots" type="id" />
+    <item name="rv_teams" type="id"/>
+    <item name="rv_match" type="id"/>
+    <item name="league_option" type="id"/>
+    <item name="team_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="spinner_league" type="id"/>
+    <item name="overview" type="id"/>
+    <item name="player_list_title" type="id"/>
+    <item name="rv_players" type="id"/>
+    <item name="player_photo" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="match_btn" type="id"/>
+    <item name="teams_btn" type="id"/>
+    <item name="fanart" type="id"/>
+    <item name="pos" type="id"/>
+    <item name="view" type="id"/>
+    <item name="deskripsi" type="id"/>
+    <item name="search_bar" type="id"/>
+
+</resources>
